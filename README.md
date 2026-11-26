@@ -66,8 +66,8 @@ Grave a tela inteira ou só uma parte dela, com ou sem som, ou **só o áudio em
 
 ## Como instalar
 
-1. Baixe o **`AudioLibre_Setup_x.x.exe`** na página de [**versões (Releases)**](https://github.com/marcos-lopes22/AudioLibre/releases/latest).
-2. Execute o instalador. Ele não pede senha de administrador.
+1. Na página de [**versões (Releases)**](https://github.com/marcos-lopes22/AudioLibre/releases/latest), baixe o **`AudioLibre_Setup_x.x.zip`** e extraia (botão direito → *Extrair tudo*). Se preferir, baixe direto o **`.exe`**.
+2. Execute o `AudioLibre_Setup_x.x.exe`. Ele não pede senha de administrador.
 3. **Se aparecer "O Windows protegeu o computador"** (SmartScreen): clique em **Mais informações** e depois em **Executar assim mesmo**. O aviso aparece porque o instalador ainda não tem assinatura digital paga, não porque tenha algum problema.
 
 **Requisitos:** Windows 10 ou 11 (64 bits) e internet. O FFmpeg já vem incluso, não precisa instalar nada além do AudioLibre.
