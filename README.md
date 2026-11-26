@@ -105,4 +105,4 @@ Desenvolvido por **Marcos Lopes**.
 
 Construído com [yt-dlp](https://github.com/yt-dlp/yt-dlp) (downloads), [FFmpeg](https://ffmpeg.org) (áudio e vídeo), [mutagen](https://github.com/quodlibet/mutagen) (tags) e [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) (interface).
 
-© 2026 Marcos Lopes. Todos os direitos reservados.
+© 2026 Marcos Lopes
